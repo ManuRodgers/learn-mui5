@@ -1,0 +1,32 @@
+{
+  "css.validate": false,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "headwind.runOnSave": false,
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#6fdff5",
+    "activityBar.activeBorder": "#f12ed1",
+    "activityBar.background": "#6fdff5",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#f12ed1",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "sash.hoverBorder": "#6fdff5",
+    "statusBar.background": "#3fd5f2",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#10caee",
+    "statusBarItem.remoteBackground": "#3fd5f2",
+    "statusBarItem.remoteForeground": "#15202b",
+    "titleBar.activeBackground": "#3fd5f2",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#3fd5f299",
+    "titleBar.inactiveForeground": "#15202b99",
+    "commandCenter.border": "#15202b99"
+  },
+  "peacock.color": "#3fd5f2",
+  "cSpell.words": ["roboto"]
+}
